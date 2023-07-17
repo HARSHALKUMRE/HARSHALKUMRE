@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshal Kumre</h1>
-<h3 align="center">I am currently working as a Data Science Intern at Ineuron.ai. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.</h3>
+<h3 align="center">I am a Data Science Intern at Ineuron.ai. I come with extensive experience working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalkumre&label=Profile%20views&color=0e75b6&style=flat" alt="harshalkumre" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshalkumre" alt="harshalkumre" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshalk
 
-- 🔭 I’m currently working on **Sensor Fault Detection**
-
-- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning And NLP**
+- 🌱 I’m currently working on  **Machine Learning, Deep Learning, NLP, MLOPS Tools (AIRFLOW, MLFLOW, DVC)**
 
 - 📫 How to reach me **harshalkumre1998@gmail.com**
 
